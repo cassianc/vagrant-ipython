@@ -6,6 +6,7 @@ This is a super-basic Vagrantfile, bootstrap script and upstart job to get an IP
 
 1. Clone this project into a new directory  
 `git clone https://github.com/cassianc/vagrant-ipython.git vagrant-ipython`
+1. `cd vagrant-ipython`
 2. Run `vagrant up`. The provisioning file will download and install all the necessary packages for IPython Notebook.
 3. Open <http://localhost:8888> in a browser window
 
